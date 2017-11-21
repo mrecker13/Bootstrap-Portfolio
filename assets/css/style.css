@@ -33,13 +33,13 @@ ul {
 }
 
 
-img {
+.imgAbout {
     float: left;
     padding-right: 10px;
     position: relative;
 }
 
-p {
+.pPort {
     background: #4aaaa5;
     color: white;
     text-align: center;
@@ -84,11 +84,10 @@ i {
 
 .footer {
     background: #666666;
-    border-top: 5px solid #4aaaa5;
 }
 
-h5 {
+.pfooter {
     text-align: center;
     color: #b3b3b3;
-    /* padding-top: 10px; */
+    padding-top: 10px;
 }
